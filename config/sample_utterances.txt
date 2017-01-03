@@ -1,0 +1,12 @@
+GetSpeedIntent how fast I'm going
+GetSpeedIntent how fast we're going
+GetSpeedIntent how fast we are going
+GetSpeedIntent how fast we're driving
+GetSpeedIntent how fast I'm travelling
+GetSpeedIntent how fast I am going
+GetSpeedIntent how fast am I going
+GetSpeedIntent how fast are we going
+GetSpeedIntent what is my speed
+GetSpeedIntent what is our speed
+GetSpeedIntent what's my speed
+GetSpeedIntent what's our speed
