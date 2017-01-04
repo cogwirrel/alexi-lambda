@@ -30,3 +30,10 @@ def build_response(output, title="Alexi", reprompt_text=None, should_end_session
         'sessionAttributes': session_attributes or {},
         'response': speechlet_response
     }
+
+
+def get_slots(request):
+    values = {}
+    for name, slot in request['intent']['slots'].iteritems():
+        values[name] = slot['value']
+    return values

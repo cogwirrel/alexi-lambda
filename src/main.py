@@ -1,3 +1,6 @@
+import os, sys
+sys.path.append(os.path.abspath('./lib'))
+
 from alexi.events import on_launch, on_session_started, on_session_ended, on_intent
 
 def main(event, context):
