@@ -7,7 +7,6 @@ else
     pushd src/lib
 
     # List dependencies here as pip commands!
-    pip install pymysql -t .
     pip install arrow -t .
 
     touch .installed

@@ -11,7 +11,11 @@ class GetSpeedIntent(Intent):
 
     def handle(self, request):
         speed = db.get_speed()
-        return build_response("{} kilometers per hour".format(speed))
+
+        if speed is not None:
+            return build_response("{} kilometers per hour".format(speed))
+        else:
+            return build_response("I don't know your speed")
 
 
 class CreateTableIntent(Intent):
@@ -30,12 +34,6 @@ class SetSpeedIntent(Intent):
         slots = get_slots(request)
         db.set_speed(float(slots['speed']))
         return build_response("Your speed is {} kilometers per hour".format(slots['speed']))
-
-
-class SelectAllIntent(Intent):
-
-    def handle(self, request):
-        return build_response(repr(db.select_all()))
 
 
 class IntentHandler(object):
