@@ -2,6 +2,6 @@
 
 AWS Lambda function for pi-nav voice control!
 
-Use `./build.sh` to zip up all the source into `output/lambda_function.zip`
+## Setup
 
-Upload to lambda with `./upload.sh` (you'll want to modify it and set up your AWS credentials first though!)
+See the readme in [pi-nav](https://github.com/cogwirrel/pi-nav) for everything you need to know.
