@@ -13,7 +13,13 @@
       ]
     },
     {
-      "intent": "NavigateToIntent"
+      "intent": "NavigateToIntent",
+      "slots": [
+        {
+          "name": "saved_place",
+          "type": "SAVED_PLACE"
+        }
+      ]
     }
   ]
 }

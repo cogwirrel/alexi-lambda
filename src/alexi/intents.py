@@ -1,4 +1,4 @@
-from alexi import db, pi_nav
+from alexi import db, pi_nav, places
 from alexi.speechlet_helper import build_response, get_slots
 
 class Intent(object):
@@ -39,8 +39,19 @@ class SetSpeedIntent(Intent):
 class NavigateToIntent(Intent):
 
     def handle(self, request):
-        pi_nav.navigate_to(-33.846636, 151.205163)
-        return build_response("Navigating!!!")
+        slots = get_slots(request)
+
+        if not 'saved_place' in slots:
+            return build_response("You didn't specify a place to navigate to")
+
+        place = slots['saved_place']
+
+        if not place in places.SAVED_PLACES:
+            return build_response("I don't know where {} is".format(place))
+
+        coords = places.SAVED_PLACES[place]
+        pi_nav.navigate_to(coords['latitude'], coords['longitude'])
+        return build_response("I've set a course for {}".format(place))
 
 class IntentHandler(object):
 
