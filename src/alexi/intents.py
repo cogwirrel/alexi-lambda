@@ -1,4 +1,4 @@
-from alexi import db
+from alexi import db, pi_nav
 from alexi.speechlet_helper import build_response, get_slots
 
 class Intent(object):
@@ -35,6 +35,12 @@ class SetSpeedIntent(Intent):
         db.set_speed(float(slots['speed']))
         return build_response("Your speed is {} kilometers per hour".format(slots['speed']))
 
+
+class NavigateToIntent(Intent):
+
+    def handle(self, request):
+        pi_nav.navigate_to(-33.846636, 151.205163)
+        return build_response("Navigating!!!")
 
 class IntentHandler(object):
 

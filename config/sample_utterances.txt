@@ -15,3 +15,6 @@ GetSpeedIntent what's our speed
 SetSpeedIntent we're travelling at {speed} kilometers per hour
 SetSpeedIntent we are driving at {speed} kilometers per hour
 SetSpeedIntent my speed is {speed}
+
+NavigateToIntent navigate to
+NavigateToIntent navigate

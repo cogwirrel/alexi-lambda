@@ -11,6 +11,9 @@
           "type": "AMAZON.NUMBER"
         }
       ]
+    },
+    {
+      "intent": "NavigateToIntent"
     }
   ]
 }
