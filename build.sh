@@ -8,6 +8,7 @@ else
 
     # List dependencies here as pip commands!
     pip install arrow -t .
+    pip install geopy -t .
 
     touch .installed
 

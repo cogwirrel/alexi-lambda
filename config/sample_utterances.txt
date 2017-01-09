@@ -16,5 +16,56 @@ SetSpeedIntent we're travelling at {speed} kilometers per hour
 SetSpeedIntent we are driving at {speed} kilometers per hour
 SetSpeedIntent my speed is {speed}
 
-NavigateToIntent navigate to {saved_place}
-NavigateToIntent navigate {saved_place}
+NavigateToIntent navigate to {street}
+NavigateToIntent navigate to {suburb}
+NavigateToIntent navigate to {city}
+NavigateToIntent navigate to {house_number} {street}
+NavigateToIntent navigate to {house_number} {suburb}
+NavigateToIntent navigate to {house_number} {city}
+NavigateToIntent navigate to {street} {suburb}
+NavigateToIntent navigate to {street} {city}
+NavigateToIntent navigate to {street} {postcode}
+NavigateToIntent navigate to {suburb} {city}
+NavigateToIntent navigate to {suburb} {postcode}
+NavigateToIntent navigate to {city} {postcode}
+NavigateToIntent navigate to {house_number} {house_letter} {street}
+NavigateToIntent navigate to {house_number} {house_letter} {suburb}
+NavigateToIntent navigate to {house_number} {house_letter} {city}
+NavigateToIntent navigate to {house_number} {street} {suburb}
+NavigateToIntent navigate to {house_number} {street} {city}
+NavigateToIntent navigate to {house_number} {street} {postcode}
+NavigateToIntent navigate to {house_number} {suburb} {city}
+NavigateToIntent navigate to {house_number} {suburb} {postcode}
+NavigateToIntent navigate to {house_number} {city} {postcode}
+NavigateToIntent navigate to {house_letter} {street} {suburb}
+NavigateToIntent navigate to {house_letter} {street} {city}
+NavigateToIntent navigate to {house_letter} {street} {postcode}
+NavigateToIntent navigate to {house_letter} {suburb} {city}
+NavigateToIntent navigate to {house_letter} {suburb} {postcode}
+NavigateToIntent navigate to {house_letter} {city} {postcode}
+NavigateToIntent navigate to {street} {suburb} {city}
+NavigateToIntent navigate to {street} {suburb} {postcode}
+NavigateToIntent navigate to {street} {city} {postcode}
+NavigateToIntent navigate to {suburb} {city} {postcode}
+NavigateToIntent navigate to {house_number} {house_letter} {street} {suburb}
+NavigateToIntent navigate to {house_number} {house_letter} {street} {city}
+NavigateToIntent navigate to {house_number} {house_letter} {street} {postcode}
+NavigateToIntent navigate to {house_number} {house_letter} {suburb} {city}
+NavigateToIntent navigate to {house_number} {house_letter} {suburb} {postcode}
+NavigateToIntent navigate to {house_number} {house_letter} {city} {postcode}
+NavigateToIntent navigate to {house_number} {street} {suburb} {city}
+NavigateToIntent navigate to {house_number} {street} {suburb} {postcode}
+NavigateToIntent navigate to {house_number} {street} {city} {postcode}
+NavigateToIntent navigate to {house_number} {suburb} {city} {postcode}
+NavigateToIntent navigate to {house_letter} {street} {suburb} {city}
+NavigateToIntent navigate to {house_letter} {street} {suburb} {postcode}
+NavigateToIntent navigate to {house_letter} {street} {city} {postcode}
+NavigateToIntent navigate to {house_letter} {suburb} {city} {postcode}
+NavigateToIntent navigate to {street} {suburb} {city} {postcode}
+NavigateToIntent navigate to {house_number} {house_letter} {street} {suburb} {city}
+NavigateToIntent navigate to {house_number} {house_letter} {street} {suburb} {postcode}
+NavigateToIntent navigate to {house_number} {house_letter} {street} {city} {postcode}
+NavigateToIntent navigate to {house_number} {house_letter} {suburb} {city} {postcode}
+NavigateToIntent navigate to {house_number} {street} {suburb} {city} {postcode}
+NavigateToIntent navigate to {house_letter} {street} {suburb} {city} {postcode}
+NavigateToIntent navigate to {house_number} {house_letter} {street} {suburb} {city} {postcode}

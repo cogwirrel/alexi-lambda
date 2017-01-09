@@ -35,5 +35,6 @@ def build_response(output, title="Alexi", reprompt_text=None, should_end_session
 def get_slots(request):
     values = {}
     for name, slot in request['intent']['slots'].iteritems():
-        values[name] = slot['value']
+        if 'value' in slot:
+            values[name] = slot['value']
     return values

@@ -16,8 +16,28 @@
       "intent": "NavigateToIntent",
       "slots": [
         {
-          "name": "saved_place",
-          "type": "SAVED_PLACE"
+          "name": "house_number",
+          "type": "AMAZON.NUMBER"
+        },
+        {
+          "name": "house_letter",
+          "type": "LETTER"
+        },
+        {
+          "name": "street",
+          "type": "STREET"
+        },
+        {
+          "name": "suburb",
+          "type": "SUBURB"
+        },
+        {
+          "name": "city",
+          "type": "CITY"
+        },
+        {
+          "name": "postcode",
+          "type": "AMAZON.FOUR_DIGIT_NUMBER"
         }
       ]
     }

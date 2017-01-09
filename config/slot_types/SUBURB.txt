@@ -1,0 +1,234 @@
+Advancetown
+Abbotsbury
+Abbotsford
+Acacia Gardens
+Adamstown Heights
+Allenby Gardens
+Annerley
+Ascot Vale
+Ashburton
+Ashfield
+Ashgrove
+Auburn
+Avoca
+Bankstown
+Balmain
+Banyo
+Battery Point
+Baulkham Hills
+Bayswater
+Beaconsfield
+Beaumont Hills
+Bella Vista
+Bellevue Hill
+Bentleigh East
+Bing
+Blackburn
+Blacktown
+Bligh Park
+Bomen
+Bonnyrigg
+Bossley Park
+Bracken Ridge
+Brendale
+Bridgeman Downs
+Brookfield
+Brunswick
+Brunswick East
+Bundoora
+Bungarribee
+Burwood
+Camden
+Camden East
+Cammeray
+Campbellfield
+Campbelltown
+Campsie
+Capertee
+Carindale
+Carlton
+Caroline Springs
+Carramar
+Castle Hill
+Caulfield North
+Chermside
+Childers
+Chippendale
+Clayton
+Concord West
+Corinda
+Crows Nest
+Croydon Park
+Dalby
+Darlinghurst
+Deer Park
+Dianella
+Dinmore
+Docklands
+Doncaster
+Doncaster East
+Doreen
+Eagle Farm
+Eaglemont
+Earlwood
+East Melbourne
+Eastern Creek
+Eastwood
+Edgecliff
+Elderslie
+Enfield
+Epping
+Epsom
+Ermington
+Essendon
+Essendon Fields
+Everton park
+Fairfield
+Fairfield Heights
+Fairfield West
+Fawkner
+Ferndale
+Ferntree Gully
+Fitzroy North
+Forest Hill
+Fortitude Valley
+Fortutide Valley
+Frankston
+Freemans Reach
+Glebe
+Glen Waverley
+Glenfield
+Glenhaven
+Glenwood
+Glossodia
+Goodna
+Grange
+Greystanes
+Guildford
+Harrington Park
+Hawthorn
+Heidelberg
+Heidelberg West
+Hoppers Crossing
+Kallangur
+Karrinyup
+Kellyville
+Kellyville Ridge
+Kew East
+Kings Langley
+Knoxfield
+Kotara
+Laverton
+Leichhardt
+Lilydale
+Liverpool
+Lower Plenty
+Lucas
+Lynwood
+Lyttelton
+Macquarie Park
+Maidstone
+Manly
+Marayong
+Marian
+Marsden Park
+Melbourne
+Melrose Park
+Mill Park
+Miller
+Milperra
+Mitcham
+Montmorency
+Morningside
+Mount Eden
+Mount Pritchard
+Mount Sheridan
+Mount Waverley
+Mt Ommaney
+Neutral Bay
+New Chum
+New Farm
+New Lambton
+Newport
+Newstead
+North Parramatta
+North Sydney
+Northbridge
+Northcote
+Northmead
+Notting Hill
+Nunawading
+Nundah
+Oakleigh
+Otahuhu
+Park Orchards
+Parkwood
+Pascoe Vale South
+Pemulwuy
+Pennant Hills
+Perth
+Petone
+Point Cook
+Prahran
+Prospect
+Quakers Hill
+Redfern
+Riccarton
+Richmond
+Ridgley
+Ringwood
+Riverstone
+Rouse Hill
+Sandgate
+Sandy Bay
+Schofields
+Seabrook
+Seaford
+Seven Hills
+Seville
+Shirley
+Smithfield
+South Windsor
+South Yarra
+Springvale
+St Johns Park
+St Leonards
+Stanhope Gardens
+Stanmore
+Strathfield
+Strathfield South
+Strathmore
+Sydney Olympic Park
+Taringa
+Tarneit
+Te Aro
+Templestowe
+Thabeban
+The Wood
+Thomastown
+Thornbury
+Truganina
+Tuki Tuki
+Upper Colo
+Upper Ferntree Gully
+Upper Riccarton
+Vermont
+Vermont South
+Vineyard
+Wakeley
+Walkervale
+Wantirna
+Wantirna South
+Watsonia
+Watsonia North
+Westmeadows
+Wetherill Park
+Wheelers Hill
+Wheeny Creek
+White Gum Valley
+Williams Landing
+Winston Hills
+Woody Point
+Woongarrah
+Yarra Glen
+Zillmere

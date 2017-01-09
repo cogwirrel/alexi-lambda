@@ -1,0 +1,10 @@
+# Update this with your own google geocoding api key from:
+# https://developers.google.com/maps/documentation/geocoding/get-api-key
+GOOGLE_GEO_API_KEY = "<YOUR_KEY_HERE>"
+
+# Set this for your country!
+REGION_CODE = "au"
+
+# Set this to your language, supported languages here:
+# https://developers.google.com/maps/faq#languagesupport
+LANGUAGE = "en-GB"

@@ -1,5 +1,8 @@
-from alexi import db, pi_nav, places
+from alexi import db, pi_nav
+from alexi.geo import geo
 from alexi.speechlet_helper import build_response, get_slots
+
+ADDRESS_COMPONENTS = ['house_number', 'house_letter', 'street', 'suburb', 'city', 'postcode']
 
 class Intent(object):
 
@@ -41,17 +44,18 @@ class NavigateToIntent(Intent):
     def handle(self, request):
         slots = get_slots(request)
 
-        if not 'saved_place' in slots:
-            return build_response("You didn't specify a place to navigate to")
+        input_address = ""
 
-        place = slots['saved_place']
+        for address_part in ADDRESS_COMPONENTS:
+            if address_part in slots:
+                input_address += "{} ".format(slots[address_part])
 
-        if not place in places.SAVED_PLACES:
-            return build_response("I don't know where {} is".format(place))
+        latitude, longitude, address = geo.geocode(input_address)
 
-        coords = places.SAVED_PLACES[place]
-        pi_nav.navigate_to(coords['latitude'], coords['longitude'])
-        return build_response("I've set a course for {}".format(place))
+        pi_nav.navigate_to(latitude, longitude)
+
+        return build_response("I've set a course for {}".format(address))
+
 
 class IntentHandler(object):
 
