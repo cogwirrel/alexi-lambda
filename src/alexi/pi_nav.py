@@ -16,3 +16,6 @@ def navigate_to(latitude, longitude):
         "latitude": latitude,
         "longitude": longitude,
     })
+
+def shutdown():
+    _publish("/pi-nav/shutdown", {})

@@ -4,13 +4,22 @@
       "intent": "GetSpeedIntent"
     },
     {
-      "intent": "SetSpeedIntent",
-      "slots": [
-        {
-          "name": "speed",
-          "type": "AMAZON.NUMBER"
-        }
-      ]
+      "intent": "GetTopSpeedIntent"
+    },
+    {
+      "intent": "GetLocationIntent"
+    },
+    {
+      "intent": "ResetStatisticsIntent"
+    },
+    {
+      "intent": "TotalDistanceIntent"
+    },
+    {
+      "intent": "CurrentJourneyIntent"
+    },
+    {
+      "intent": "ShutdownIntent"
     },
     {
       "intent": "NavigateToIntent",

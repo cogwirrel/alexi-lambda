@@ -12,9 +12,34 @@ GetSpeedIntent what my speed is
 GetSpeedIntent what's my speed
 GetSpeedIntent what's our speed
 
-SetSpeedIntent we're travelling at {speed} kilometers per hour
-SetSpeedIntent we are driving at {speed} kilometers per hour
-SetSpeedIntent my speed is {speed}
+GetTopSpeedIntent what's my top speed
+GetTopSpeedIntent what's my fastest speed
+GetTopSpeedIntent what my top speed is
+GetTopSpeedIntent what my fastest speed is
+
+GetLocationIntent where are we
+GetLocationIntent where am I
+GetLocationIntent what's my location
+GetLocationIntent what is my location
+
+TotalDistanceIntent how far have I travelled
+TotalDistanceIntent what's my total distance
+
+CurrentJourneyIntent what's my average speed
+CurrentJourneyIntent tell me about my current journey
+CurrentJourneyIntent how far have I travelled in my current journey
+CurrentJourneyIntent journey briefing
+CurrentJourneyIntent current journey
+CurrentJourneyIntent what's my current journey
+CurrentJourneyIntent tell me about my journey
+CurrentJourneyIntent tell me about this trip
+CurrentJourneyIntent tell me about this drive
+CurrentJourneyIntent how's my driving
+
+ResetStatisticsIntent reset statistics
+
+ShutdownIntent shut down
+ShutdownIntent shutdown
 
 NavigateToIntent navigate to {street}
 NavigateToIntent navigate to {suburb}
