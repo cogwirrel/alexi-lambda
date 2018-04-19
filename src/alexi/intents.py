@@ -96,6 +96,26 @@ class NavigateToIntent(Intent):
         return build_response("I've set a course for {}".format(address))
 
 
+class SwitchToIntent(Intent):
+
+    def handle(self, request):
+        page_map = {
+            'nav': 'nav',
+            'navigation': 'nav',
+            'maps': 'nav',
+            'dials': 'dials',
+            'monitors': 'dials',
+        }
+
+        slots = get_slots(request)
+
+        page = page_map.get(slots.get('page', 'nav'), 'nav')
+
+        pi_nav.switch_page(page)
+
+        return build_response("Showing you the {} screen.".format(slots.get('page', 'navigation')))
+
+
 class ShutdownIntent(Intent):
     def handle(self, request):
         pi_nav.shutdown()

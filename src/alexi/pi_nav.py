@@ -17,5 +17,10 @@ def navigate_to(latitude, longitude):
         "longitude": longitude,
     })
 
+def switch_page(page):
+    _publish("/pi-nav/action", {
+        "page": page
+    })
+
 def shutdown():
     _publish("/pi-nav/shutdown", {})

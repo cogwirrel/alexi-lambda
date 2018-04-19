@@ -38,6 +38,9 @@ CurrentJourneyIntent how's my driving
 
 ResetStatisticsIntent reset statistics
 
+SwitchToIntent switch to {page}
+SwitchToIntent show me {page}
+
 ShutdownIntent shut down
 ShutdownIntent shutdown
 

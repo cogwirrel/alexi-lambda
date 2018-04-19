@@ -22,6 +22,15 @@
       "intent": "ShutdownIntent"
     },
     {
+      "intent": "SwitchToIntent",
+      "slots": [
+        {
+          "name": "page",
+          "type": "PAGE"
+        }
+      ]
+    },
+    {
       "intent": "NavigateToIntent",
       "slots": [
         {

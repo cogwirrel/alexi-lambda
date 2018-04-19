@@ -97,7 +97,6 @@ Awahuri
 Awakino
 Axedale
 Ayr
-BURSWOOD
 Bacchus Marsh
 Badgingarra
 Badjaling WA
@@ -326,7 +325,6 @@ Bunnythorpe
 Burleigh Gardens
 Burleigh Heads
 Burleigh Waters
-Burleigh waters
 Burnie
 Burnley
 Burnside Heights
@@ -337,7 +335,6 @@ Busselton
 Buxton
 Bylands
 Byron Bay
-CROYDON
 Caboolture
 Cabramatta
 Caddens
@@ -367,7 +364,6 @@ Camp Hill
 Campbell
 Campbell Town
 Campbellfield
-Campbellfield.
 Campbelltown
 Campellfield
 Camperdown
@@ -562,7 +558,6 @@ Currumbin Valley
 Currumbin Waters
 Curtin
 Cygnet
-DUMBEA
 Daintree
 Dakabin
 Dalby
@@ -812,7 +807,6 @@ Gloucester
 Godwin Beach
 Golcherts Road
 Gold Coast
-Gold coast
 Golden Grove
 Golden Point
 Golden Square
@@ -988,7 +982,6 @@ Ipswich
 Irymple
 Isle of Capri
 Ivanhoe
-JAN JUC
 Jabiru
 Jacobs Well
 Jamisontown
@@ -1005,7 +998,6 @@ Jubilee Pocket
 Junction Hill
 Junortoun
 Jurien Bay
-KINGLAKE
 Kaala-Gomen
 Kab Maluku Tenggara
 Kabupaten Maluku Tenggara
@@ -1116,7 +1108,6 @@ Kurri Kurri
 Kyabram
 Kyneton
 Kyogle
-LIncoln
 La Coulée
 La Foa
 La Tamoa
@@ -1179,7 +1170,6 @@ Lilydale
 Lilyfield
 Lincoln
 Linden Park
-Linden pARK
 Lindenow
 Lismore
 Lithgow
@@ -1216,9 +1206,6 @@ Lynwood
 Lyons
 Lyttelton
 Lyttleton
-MALLACOOTA
-MITCHAM
-MT. Hagen
 Maatsuyker Island
 Macclesfield
 Mackay
@@ -1461,7 +1448,6 @@ Myaree
 Myrniong
 Myrtle Bank
 Myrtle Creek
-NORTON SUMMIT
 Nadi
 Nadii town
 Nagambie
@@ -1505,7 +1491,6 @@ New Lynn, Auckland
 New Norfolk
 New Plymouth
 New Town
-NewPort
 Newborough
 Newcastle
 Newcomb
@@ -2221,19 +2206,16 @@ Upper Castlereagh
 Upper Charlton
 Upper Coomera
 Upper Hut
-Upper Hutt
 Upper Mount Gravatt
 Upper Mt Gravatt
 Upper Mt. Gravatt
 Upper Riccarton, Christchurch
-Upper hutt
 Upwey
 Urrbrae, South Australia
 Urunga
 Val Boise
 Valla Beach
 Vallon Dore
-Vallon dore
 Varsity Lakes
 Vermont
 Vermont South

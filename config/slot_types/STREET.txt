@@ -261,7 +261,6 @@ Andrew St
 Andrew Street
 Andrews Road
 Andrews Street
-Andrews road
 Angas Street
 Angas Valley Road
 Angela Ct (J L Blas Ct)
@@ -558,7 +557,6 @@ Bairnsdale - Dargo Road
 Baker Lane
 Baker Road
 Baker Street
-Baker lane
 Bakewell Street
 Balaclava Street
 Baladin Street
@@ -729,7 +727,6 @@ Baxter Terrace
 Baxter Way
 Baxter-Tooradin Road
 Baxter-Tooradin rd
-Baxter-Tooradin road
 Bay Drive
 Bay Road
 Bay St
@@ -755,7 +752,6 @@ Beach Close
 Beach Parade
 Beach Road
 Beach Street
-Beach street
 Beachcroft Avenue
 Beaconsfield
 Beaconsfield Parade
@@ -1313,7 +1309,6 @@ Bryant Street
 Bryce St
 Bryce Street
 Buabua Rd
-Buabua rd
 Buchan Street
 Buchanan Drive
 Buchanan Street
@@ -1958,7 +1953,6 @@ Church Road
 Church St
 Church Street
 Church Street Mall
-Church street
 Churcher St
 Churcher Street
 Churchill Avenue
@@ -2190,7 +2184,6 @@ Constance Street
 Constitution Avenue
 Constitution Crescent
 Constitution Road
-Constitution crescent
 Conte Road
 Contempo Court
 Contest Link
@@ -2408,7 +2401,6 @@ Cumberland Rise
 Cumberland Road
 Cumberland St
 Cumberland Street
-Cumberland st
 Cummins Street
 Cunaris Way
 Cunberland Street
@@ -2580,7 +2572,6 @@ Dempster Street
 Denarau
 Denarau Isd
 Denarau Island
-Denarau island
 Denbigh Avenue
 Denbigh Court
 Denbigh Sq
@@ -3451,7 +3442,6 @@ Franklin Wharf
 Frankston-Dandenong Road
 Frankston-Flinders Road
 Frankston-Flinders rd
-Frankston-Flinders road
 Frankton Road
 Franmaree Road
 Franz Josef Highway
@@ -3790,7 +3780,6 @@ Gordon St
 Gordon Street
 Gordonton Road
 Gore Street
-Gore street
 Gorge Rd
 Gorge Road
 Gormley Drive
@@ -4354,7 +4343,6 @@ Hilton Place
 Hilton Resort
 Hilton Road
 Hilton Street
-Hilton resort
 Himatangi St
 Himyar Drive
 Hindoo Elbow
@@ -4915,7 +4903,6 @@ Kaurilands Road
 Kauvula Road Nakurakura NADI Fiji
 Kavanagh Road
 Kavanagh Street
-Kavanagh street
 Kawakawa Rd
 Kawana Street
 Kawarren Street
@@ -5533,7 +5520,6 @@ Lodge Road
 Lodges Road
 Lodhia street
 Lodia Street
-Lodia street
 Lodia stréet
 Loeman Street
 Loftus Street
@@ -5666,7 +5652,6 @@ MacLeod Street
 MacNamara Street
 Macadie Way
 Macandrew Road
-Macarthur Avenue
 Macarthur Parade
 Macarthur Road
 Macarthur Street North
@@ -5694,8 +5679,6 @@ Mackinnon Street
 Maclaurin Avenue
 Macleans Point Road
 Macleans Road
-Macleay Street
-Macleod Street
 Macorna Street
 Macpherson Street
 Macquarie Road
@@ -5743,7 +5726,6 @@ Main South Road
 Main St
 Main Street
 Main Terrace
-Main street
 Maine St
 Mains Road
 Mainsbridge Road
@@ -5798,13 +5780,11 @@ Manakin Avenue
 Manapouri-Te Anau Highway
 Manchester Road
 Manchester ST
-Manchester St
 Manchester Street
 Mandalay Drive
 Mandible Street
 Mandir
 Mandir Road
-Mandir road
 Mandolong Road
 Maneela Street
 Manga Pirau Street
@@ -6099,7 +6079,6 @@ McTavish Boulevard
 McVay Street
 Mcdonalds Road
 Mcgregor Court
-Mcintosh Street
 Mcivor Place
 Mckerrow Street
 Mcwhirter Drive
@@ -6360,8 +6339,6 @@ Montpelier Road
 Montpelier Square
 Montreal Crescent
 Montreal Street
-Montreal crescent
-Montreal street
 Montrose Place
 Montrose Street
 Monty Place
@@ -6593,7 +6570,6 @@ Nabob Lane
 Nadi Back Road
 Nadi Main Street
 Nadi Mains St
-Nadi main Street
 Nairana Street
 Nairn Street
 Naisali Island
@@ -6605,13 +6581,11 @@ Nalder Street
 Namaka /Nadi
 Namaka Nadi
 Namaka/Nadi
-Namaka/nadi
 Namata Road
 Nambour Connection Road
 Nambucca Crescent
 Namotomoto
 Namotomoto Village
-Namotomoto village
 Nanando Drive
 Nancy Bird Walton Drive
 Nanette Court
@@ -6637,15 +6611,12 @@ Narellan Road
 Naretha Street
 Narewa
 Narewa  Village
-Narewa  village
 Narewa Nadi
 Narewa Road
 Narewa Village
-Narewa village
 Narewa, Nadi
 Narewa,Nadi
 Narewa/Nadi
-Narewa/nadi
 NarewaVillage
 Narre Warren - Cranbourne Road
 Narrowdale Road
@@ -6664,13 +6635,11 @@ Nautical Drive
 Navakai
 Navakai rd off Queens rd
 Navarre Street
-Nawajikuma
 Nawaka
 Nawaka  Road
 Nawaka Road
 Nawaka Village
 Nawaka vilage
-Nawaka village
 NawakaVallige
 NawakaVillage
 Nayland Road
@@ -7632,7 +7601,6 @@ Qansville estate
 Qanville
 Qanville  Estate
 Qanville Estate
-Qanville estate
 Quail Place
 Quality Drive
 Quality Row
@@ -7656,7 +7624,6 @@ Queen Street
 Queen Street West
 Queen Victoria Street
 Queen Victoria Terrace
-Queen st
 Queens  Road
 Queens Avenue
 Queens Bridge Street
@@ -7866,8 +7833,6 @@ Richmand Street
 Richmond Avenue
 Richmond Road
 Richmond Street
-Richmond road
-Richmond street
 Rick Lane
 Rickard Street
 Ricketty Street
@@ -8748,9 +8713,7 @@ Saddle Street
 Safety Beach Drive
 Safety Cove Road
 Sagayam  ROad
-Sagayam  Road
 Sagayam ROad
-Sagayam Road
 Sagayam street
 Sage Court
 Saiala Road
@@ -8850,8 +8813,6 @@ Satyam road
 Saunaka
 Saunaka  Village
 Saunaka VIllage
-Saunaka Village
-Saunaka village
 Saunders Place
 Saunders Street
 Sava
@@ -9076,7 +9037,6 @@ Simkin Avenue
 Simla Terrace
 Simmental Vale
 Simmons Street
-Simone DREMON
 Simpson Street
 Simpsons Road
 Sims Road
@@ -9140,7 +9100,6 @@ Snug Tiers Road
 Socrates Parade
 Sofitel Hotel
 Sofitel Island
-Sofitel hotel
 Solander Place
 Solander Road
 Soldiers Point Road
